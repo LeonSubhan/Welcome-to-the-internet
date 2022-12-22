@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PositiveLogInTestSuite" duration-ms="61011" started-at="2022-12-15T01:06:57Z" finished-at="2022-12-15T01:07:58Z">
+    <groups>
+    </groups>
+    <test name="NegativeLogInTests" duration-ms="61011" started-at="2022-12-15T01:06:57Z" finished-at="2022-12-15T01:07:58Z">
+      <class name="UploadFile">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:UploadFile@61dc03ce]" name="setUp" is-config="true" duration-ms="4293" started-at="2022-12-15T01:07:51Z" finished-at="2022-12-15T01:07:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUploadFile()[pri:0, instance:UploadFile@61dc03ce]" name="testUploadFile" duration-ms="2719" started-at="2022-12-15T01:07:56Z" finished-at="2022-12-15T01:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUploadFile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UploadFile@61dc03ce]" name="tearDown" is-config="true" duration-ms="79" started-at="2022-12-15T01:07:58Z" finished-at="2022-12-15T01:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UploadFile -->
+      <class name="DownloadFile">
+        <test-method status="PASS" signature="testDownloadFile()[pri:0, instance:DownloadFile@737996a0]" name="testDownloadFile" duration-ms="6827" started-at="2022-12-15T01:07:45Z" finished-at="2022-12-15T01:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownloadFile -->
+      </class> <!-- DownloadFile -->
+      <class name="CheckBox">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:CheckBox@9f70c54]" name="setUp" is-config="true" duration-ms="4226" started-at="2022-12-15T01:07:32Z" finished-at="2022-12-15T01:07:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckBox()[pri:0, instance:CheckBox@9f70c54]" name="testCheckBox" duration-ms="1739" started-at="2022-12-15T01:07:36Z" finished-at="2022-12-15T01:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckBox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:CheckBox@9f70c54]" name="tearDown" is-config="true" duration-ms="80" started-at="2022-12-15T01:07:38Z" finished-at="2022-12-15T01:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CheckBox -->
+      <class name="PositiveLogInTests">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:PositiveLogInTests@735b478]" name="setUp" is-config="true" duration-ms="4320" started-at="2022-12-15T01:07:05Z" finished-at="2022-12-15T01:07:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkBoxTest()[pri:0, instance:PositiveLogInTests@735b478]" name="checkBoxTest" duration-ms="1853" started-at="2022-12-15T01:07:09Z" finished-at="2022-12-15T01:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PositiveLogInTests@735b478]" name="tearDown" is-config="true" duration-ms="78" started-at="2022-12-15T01:07:11Z" finished-at="2022-12-15T01:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:PositiveLogInTests@735b478]" name="setUp" is-config="true" duration-ms="4252" started-at="2022-12-15T01:07:11Z" finished-at="2022-12-15T01:07:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:PositiveLogInTests@735b478]" name="logInTest" duration-ms="3396" started-at="2022-12-15T01:07:15Z" finished-at="2022-12-15T01:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PositiveLogInTests@735b478]" name="tearDown" is-config="true" duration-ms="79" started-at="2022-12-15T01:07:18Z" finished-at="2022-12-15T01:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PositiveLogInTests -->
+      <class name="ContextMenu">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:ContextMenu@234bef66]" name="setUp" is-config="true" duration-ms="4355" started-at="2022-12-15T01:07:38Z" finished-at="2022-12-15T01:07:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testContextMenu()[pri:0, instance:ContextMenu@234bef66]" name="testContextMenu" duration-ms="1861" started-at="2022-12-15T01:07:43Z" finished-at="2022-12-15T01:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContextMenu -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ContextMenu@234bef66]" name="tearDown" is-config="true" duration-ms="78" started-at="2022-12-15T01:07:44Z" finished-at="2022-12-15T01:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ContextMenu -->
+      <class name="AddAndRemove">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:AddAndRemove@2096442d]" name="setUp" is-config="true" duration-ms="4302" started-at="2022-12-15T01:07:26Z" finished-at="2022-12-15T01:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addAndRemove()[pri:0, instance:AddAndRemove@2096442d]" name="addAndRemove" duration-ms="1834" started-at="2022-12-15T01:07:30Z" finished-at="2022-12-15T01:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndRemove -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AddAndRemove@2096442d]" name="tearDown" is-config="true" duration-ms="80" started-at="2022-12-15T01:07:32Z" finished-at="2022-12-15T01:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AddAndRemove -->
+      <class name="DropDownTests">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:DropDownTests@52af6cff]" name="setUp" is-config="true" duration-ms="5096" started-at="2022-12-15T01:06:57Z" finished-at="2022-12-15T01:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkBoxTest()[pri:0, instance:DropDownTests@52af6cff]" name="checkBoxTest" duration-ms="1942" started-at="2022-12-15T01:07:03Z" finished-at="2022-12-15T01:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DropDownTests@52af6cff]" name="tearDown" is-config="true" duration-ms="83" started-at="2022-12-15T01:07:04Z" finished-at="2022-12-15T01:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DropDownTests -->
+      <class name="NegativeLogInTests">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:NegativeLogInTests@2c9f9fb0]" name="setUp" is-config="true" duration-ms="4256" started-at="2022-12-15T01:07:19Z" finished-at="2022-12-15T01:07:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="negativeTest()[pri:0, instance:NegativeLogInTests@2c9f9fb0]" name="negativeTest" duration-ms="3049" started-at="2022-12-15T01:07:23Z" finished-at="2022-12-15T01:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:NegativeLogInTests@2c9f9fb0]" name="tearDown" is-config="true" duration-ms="80" started-at="2022-12-15T01:07:26Z" finished-at="2022-12-15T01:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NegativeLogInTests -->
+    </test> <!-- NegativeLogInTests -->
+  </suite> <!-- PositiveLogInTestSuite -->
+</testng-results>

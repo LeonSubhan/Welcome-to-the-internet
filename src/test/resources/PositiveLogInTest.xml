@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PositiveLogInTestSuite" verbose="1">
+	<parameter name="browser" value="firefox">browser</parameter>
+	<parameter name="operatorSystem" value="mac">osName</parameter>
+
+	<test name="PositiveLogInTests">
+
+		<classes>
+			<class name="Base" />
+			<class name="DropDownTests"></class>
+			<class name="PositiveLogInTests"></class>
+
+		</classes>
+	</test>
+
+
+</suite>

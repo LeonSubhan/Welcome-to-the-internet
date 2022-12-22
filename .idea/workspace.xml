@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59be8ca8-16d5-499f-a5cb-0a1718715e09" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2In75kmZWXiq0BpbEHKfjuq6gYe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/leonsubhan/IdeaProjects/com.the-internet.herokuapp/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leonsubhan/IdeaProjects/com.the-internet.herokuapp/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WelcomePage.testWelcomePage">
+    <configuration name="ChallengingDOM.testChallengingDOM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.the-internet.herokuapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChallengingDOM" />
+      <option name="METHOD_NAME" value="testChallengingDOM" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeagAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.the-internet.herokuapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeagAndDrop" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeagAndDrop.testDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.the-internet.herokuapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeagAndDrop" />
+      <option name="METHOD_NAME" value="testDragAndDrop" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisappearingElements.testDisappearingElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.the-internet.herokuapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisappearingElements" />
+      <option name="METHOD_NAME" value="testDisappearingElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WelcomePage.testWelcomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.the-internet.herokuapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WelcomePage" />
+      <option name="METHOD_NAME" value="testWelcomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WelcomePage.testWelcomePage" />
+        <item itemvalue="TestNG.DeagAndDrop.testDragAndDrop" />
+        <item itemvalue="TestNG.DeagAndDrop" />
+        <item itemvalue="TestNG.DisappearingElements.testDisappearingElements" />
+        <item itemvalue="TestNG.ChallengingDOM.testChallengingDOM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59be8ca8-16d5-499f-a5cb-0a1718715e09" name="Changes" comment="" />
+      <created>1670805312671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670805312671</updated>
+      <workItem from="1670805314014" duration="15143000" />
+      <workItem from="1670865603472" duration="10175000" />
+      <workItem from="1670966442686" duration="6961000" />
+      <workItem from="1671053045361" duration="11461000" />
+      <workItem from="1671066222412" duration="1259000" />
+      <workItem from="1671072511915" duration="28000" />
+      <workItem from="1671159729606" duration="1311000" />
+      <workItem from="1671227446318" duration="5071000" />
+      <workItem from="1671305438583" duration="1504000" />
+      <workItem from="1671317274673" duration="5397000" />
+      <workItem from="1671378020102" duration="4587000" />
+      <workItem from="1671478885764" duration="3554000" />
+      <workItem from="1671581400719" duration="12879000" />
+      <workItem from="1671635454689" duration="9822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
